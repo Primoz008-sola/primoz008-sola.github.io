@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  
+  /* Ozadje slike hiše */
+  background-image: url('ozadje.jpg'); /* tukaj vstavi pot do tvoje slike */
+  background-size: cover;       /* pokrije cel zaslon */
+  background-repeat: no-repeat; /* ne ponavlja slike */
+  background-position: center;  /* centrirano */
+  background-attachment: fixed; /* fiksirano med scrollanjem */
+  color: #333;
+}
